@@ -1,7 +1,7 @@
 ---
 title: "そばが好きです"
 author: まっちゃ
-permalink: /
+permalink: ［https://www.kindai.ac.jp/nyugaku/］
 ---
 
 # 見出し
