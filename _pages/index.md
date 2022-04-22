@@ -9,6 +9,7 @@ permalink: ［https://www.kindai.ac.jp/nyugaku/］
 そばうまい
 
 
+![sample02](https://user-images.githubusercontent.com/104198477/164689772-9d9d7771-a972-4e75-a400-c6272ff4e1db.jpg)
 
 ---
 
