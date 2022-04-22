@@ -1,6 +1,6 @@
 ---
 title: "そばが好きです"
-author: default
+author: まっちゃ
 permalink: /
 ---
 
