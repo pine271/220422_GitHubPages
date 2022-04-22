@@ -27,7 +27,7 @@ permalink: ［https://www.kindai.ac.jp/nyugaku/］
 
 [リンク](https://www.google.co.jp/)
 
-**太字**
+**太字**　　**kithub**
 
 > 引用
 >> 多重引用
