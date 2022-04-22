@@ -4,7 +4,7 @@ author: まっちゃ
 permalink: ［https://www.kindai.ac.jp/nyugaku/］
 ---
 
-# **見出し**
+# 見出し
 
 ここに内容を記述する！
 
